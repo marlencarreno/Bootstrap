@@ -8,7 +8,7 @@ body{
 .banner{
 	height: 100vh;
 	width: 100%;
-	background-image: url('images/coding2.jpg');
+	background-image: url('coding2.jpg');
 	background-position: top;
 	background-size: cover;
 	/*background-attachment: fixed;*/
